@@ -30,4 +30,3 @@ exports.japan = function () {
 exports.random = function () {
 	return objectRandom(exports)[0]();
 }
-
